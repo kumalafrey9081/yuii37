@@ -1,0 +1,4 @@
+baseURL = "https://pianomusicgoop.vercel.app"
+languageCode = "en-us"
+title = "Beginner Piano Sheet Music"
+theme = "hugo-theme-minos"
